@@ -1,0 +1,19 @@
+
+label{
+    color:brown;
+    font-weight: 18px;
+}
+.uno {
+    color:blueviolet;
+    font-family: impact;
+}
+#col{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#parrafo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 25px;
+    color: royalblue;
+}
