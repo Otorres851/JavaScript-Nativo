@@ -1,3 +1,4 @@
-# Repositorio Sintaxis JavaScript 📙 
+# Repositorio Sintaxis de JavaScript 📙 
 
-Este repositorio contiene la sintaxis de JavaScript nativo y la solución de algunos problemas.
+Bienvenidos!
+- Este repositorio contiene la sintaxis de JavaScript nativo y la solución de algunos problemas.
